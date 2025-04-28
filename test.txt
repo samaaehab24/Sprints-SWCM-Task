@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
-Hello World, from Samaa Rady Ehab, your fellow software engineer!!!
-=======
 Hello World, from your friend Samaa Ehab!!!
->>>>>>> featureY
